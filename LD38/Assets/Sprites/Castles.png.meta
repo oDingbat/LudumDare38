@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: f8b9f33376fb52b448f318760c61e95c
+timeCreated: 1492980719
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CastlePiece_Top_1
+    21300002: CastlePiece_Top_2
+    21300004: CastlePiece_Top_3
+    21300006: CastlePiece_Tower_1
+    21300008: CastlePiece_Tower_2
+    21300010: CastlePiece_Tower_3
+    21300012: CastlePiece_Tower_4
+    21300014: CastlePiece_Tower_5
+    21300016: CastlePiece_Tower_6
+    21300018: CastlePiece_Tower_7
+    21300020: CastlePiece_Tower_8
+    21300022: CastlePiece_Base_1
+    21300024: CastlePiece_Base_2
+    21300026: CastlePiece_Base_3
+    21300028: CastlePiece_Base_4
+    21300030: CastlePiece_Base_5
+    21300032: Castle_Door_Locked
+    21300034: Castle_Door_Opened
+    21300036: CastlePiece_Tower_9
+    21300038: CastlePiece_TunnelBG
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastlePiece_Top_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 28
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Top_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 232
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Top_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 232
+        width: 28
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Tower_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 208
+        width: 28
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Tower_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 208
+        width: 28
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Tower_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 208
+        width: 28
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Tower_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 208
+        width: 28
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Tower_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 173
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Tower_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 173
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Tower_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 173
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Tower_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 173
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Base_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 145
+        width: 70
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Base_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 123
+        width: 70
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Base_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 70
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Base_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 73
+        width: 70
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Base_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 45
+        width: 70
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castle_Door_Locked
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 241
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Castle_Door_Opened
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 241
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_Tower_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 173
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CastlePiece_TunnelBG
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 225
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
